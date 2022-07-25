@@ -1,6 +1,6 @@
 # tennis-stats
 
-Technologie : Java 17 + Spring boot (hibernate etc) + h2
+Technologie : Java 17 + Spring boot (hibernate etc) + h2  
 Durée passée : 4h30
 
 Ce qui n'est pas fait :
